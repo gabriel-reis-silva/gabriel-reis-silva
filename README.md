@@ -9,7 +9,7 @@
   
 ##
   
-- 👨‍💻 I’m currently working with back-end development at PayGo
+- 👨‍💻 I’m currently working with back-end development at Edenred
 - 🌱 I’m always learning!
 - 💬 Ask me about Java, PHP, Clojure, and we can learn together
 
